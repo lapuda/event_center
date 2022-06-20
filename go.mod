@@ -1,4 +1,4 @@
-module event_center
+module github.com/lapuda/event_center
 
 go 1.13
 
